@@ -111,8 +111,6 @@ LoftPriceIndex/
 
 [Руслан](https://t.me/twizzjatt) · [Ангелина](https://t.me/kndvln) · [Гриша](https://t.me/grishwq) · [Алика](https://t.me/ISAlikaS) · [Мария](https://t.me/yammypups) · [Максим](https://t.me/maksushkaekey)
 
-Team-lead ikanam-ai: [Саня Е.](https://t.me/Lanmo_rive)
-
 
 ## License
 
