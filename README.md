@@ -112,3 +112,24 @@ LoftPriceIndex/
 [Руслан](https://t.me/twizzjatt) · [Ангелина](https://t.me/kndvln) · [Гриша](https://t.me/grishwq) · [Алика](https://t.me/ISAlikaS) · [Мария](https://t.me/yammypups) · [Максим](https://t.me/maksushkaekey)
 
 Team-lead ikanam-ai: [Саня Е.](https://t.me/Lanmo_rive)
+
+
+## License
+
+This project is licensed under the Creative Commons CC BY-NC-SA 4.0 License.
+
+You are free to:
+- Share — copy and redistribute the material
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — you must give appropriate credit and provide a link to the research
+- NonCommercial — you may not use the material for commercial purposes
+- ShareAlike — if you remix, you must distribute under the same license
+
+When using this code or materials, please cite:
+
+Ikanam Research Team, *Loft Price Index*, 2026  
+https://github.com/FUlyankin/ekanam_grand_research
+
+Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/
